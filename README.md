@@ -57,8 +57,8 @@ student_enrollment_system/
 
 ## Contributors
 
-22UG1-0723  H.R.A.N. Dilhara
-22UG1-0394  C.W.M.V.S. Chandrasekara
+- 22UG1-0723  H.R.A.N. Dilhara
+- 22UG1-0394  C.W.M.V.S. Chandrasekara
 
 ### Developed by Group 3
 
