@@ -63,7 +63,7 @@ student_enrollment_system/
 
 Tasks Completed
 - Initialized Git repository.
-- Created class diagram.
+- Created class diagram and python files.
 - Simulated collaboration using branches.
 
 Challenges Faced
