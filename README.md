@@ -56,6 +56,20 @@ student_enrollment_system/
    ```
 
 ## Contributors
-### Developed by Group 3
 
 22UG1-0723  H.R.A.N. Dilhara
+
+### Developed by Group 3
+
+Tasks Completed
+- Initialized Git repository.
+- Created class diagram.
+- Simulated collaboration using branches.
+
+Challenges Faced
+- Resolving merge conflicts.
+- Coordinating changes across team members.
+
+Key Learnings
+- Importance of version control.
+- Collaboration best practices with Git.
