@@ -58,7 +58,7 @@ student_enrollment_system/
 ## Contributing
 Contributions are welcome! Please feel free to open issues or submit pull requests to improve the system.
 
-### Developed by Group 3
+## Developed by Group 3
 
 ### Team Members
 22UG1-0723  H.R.A.N. Dilhara
