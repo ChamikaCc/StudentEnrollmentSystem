@@ -55,8 +55,6 @@ student_enrollment_system/
    python main.py
    ```
 
-## Contributing
-Contributions are welcome! Please feel free to open issues or submit pull requests to improve the system.
 
 ## Developed by Group 3
 
