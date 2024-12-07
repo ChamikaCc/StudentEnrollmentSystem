@@ -37,9 +37,9 @@ student_enrollment_system/
 3. **Enrollment**: Tracks the association between students and courses, along with enrollment dates and grades.
 4. **Instructor**: Represents instructors, managing their personal details and assigned courses.
 5. **Department**: Handles department-specific operations like managing courses and instructors.
-6. **Attendance**: Tracks student attendance for courses.
-7. **GradeReport**: Manages grade records for students.
-8. **Assignment**: Tracks course assignments and their submissions.
+6.**Attendance**: Monitors students' presence in classes.
+7. **Grade Report**: Handles students' academic performance records.
+8. **Assignment**: Oversees course assignments and submission details.
 
 ## Getting Started
 1. Clone the repository:
@@ -59,6 +59,7 @@ student_enrollment_system/
 
 - 22UG1-0723  H.R.A.N. Dilhara
 - 22UG1-0394  C.W.M.V.S. Chandrasekara
+- 22UG1-0812 H.M.K.S. Dedunupitiya
 
 ### Developed by Group 3
 
